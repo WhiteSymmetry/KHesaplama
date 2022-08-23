@@ -1,5 +1,6 @@
-# KHesaplama: Kuantum Hesaplama: Quantum Computing
-Kuantum Hesaplama
+# KHesaplama: Kuantum Hesaplama: Quantum Computing: QComputing
+
+Quantum Computing Links for Beginners (Yeni başlayanlar için Kuantum Hesaplama Linkleri)
 
 #Aim: Amaç
 
