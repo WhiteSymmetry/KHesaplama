@@ -2,7 +2,7 @@
 
 Quantum Computing Links for Beginners (Yeni başlayanlar için Kuantum Hesaplama Linkleri)
 
-# Aim: Amaç
+## Aim: Amaç
 
 What are the sample links for those new to (who are just getting started with) quantum computing?
 
